@@ -24,7 +24,7 @@ public class Vetor {
             }
         }
     } */
-
+// outro tipo de metodo alterantivo
     /* public void adiciona(String elemento) throws Exception{
 
         if (this.tamanho < this.elementos.length) {
