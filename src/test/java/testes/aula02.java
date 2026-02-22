@@ -1,3 +1,7 @@
+package testes;
+
+import inicio.Vetor;
+
 public class aula02 {
 
     public static void main(String[] args){
